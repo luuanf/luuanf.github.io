@@ -1,0 +1,98 @@
+{
+  "institucionais": [
+    {
+      "id": "inst1",
+      "title": "Vídeo Institucional Empresa ABC",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "featured": true
+    },
+    {
+      "id": "inst2",
+      "title": "História da Marca Corporativa",
+      "videoUrl": "https://www.youtube.com/embed/jNQXAC9IVRw",
+      "featured": false
+    },
+    {
+      "id": "inst3",
+      "title": "Campanha de Lançamento",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "featured": false
+    },
+    {
+      "id": "inst4",
+      "title": "Apresentação de Serviços",
+      "videoUrl": "https://www.youtube.com/embed/jNQXAC9IVRw",
+      "featured": false
+    }
+  ],
+  "comerciais": [
+    {
+      "id": "com1",
+      "title": "Comercial de TV - Produto A",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "featured": true
+    },
+    {
+      "id": "com2",
+      "title": "Comercial Online - Serviço B",
+      "videoUrl": "https://www.youtube.com/embed/jNQXAC9IVRw",
+      "featured": false
+    }
+  ],
+  "historias": [
+    {
+      "id": "hist1",
+      "title": "História de Superação - Cliente X",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "featured": true
+    },
+    {
+      "id": "hist2",
+      "title": "Caso de Sucesso - Empresa Y",
+      "videoUrl": "https://www.youtube.com/embed/jNQXAC9IVRw",
+      "featured": false
+    }
+  ],
+  "redes": [
+    {
+      "id": "red1",
+      "title": "Campanha para Instagram",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "featured": true
+    },
+    {
+      "id": "red2",
+      "title": "TikTok Challenge",
+      "videoUrl": "https://www.youtube.com/embed/jNQXAC9IVRw",
+      "featured": false
+    }
+  ],
+  "politico": [
+    {
+      "id": "pol1",
+      "title": "Campanha Eleitoral - Candidato A",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "featured": true
+    },
+    {
+      "id": "pol2",
+      "title": "Proposta de Governo",
+      "videoUrl": "https://www.youtube.com/embed/jNQXAC9IVRw",
+      "featured": false
+    }
+  ],
+  "eventos": [
+    {
+      "id": "evt1",
+      "title": "Cobertura de Evento Corporativo",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "featured": true
+    },
+    {
+      "id": "evt2",
+      "title": "Registro de Conferência",
+      "videoUrl": "https://www.youtube.com/embed/jNQXAC9IVRw",
+      "featured": false
+    }
+  ]
+} 
