@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d24f0d98.css",
-    "main.js": "/static/js/main.88506db8.js",
+    "main.js": "/static/js/main.acbb3084.js",
     "static/js/453.f6c4fa44.chunk.js": "/static/js/453.f6c4fa44.chunk.js",
     "static/media/corporativo.png": "/static/media/corporativo.fc1e4d9489176acf0c99.png",
     "static/media/politico.png": "/static/media/politico.c61fbc5e82c8dd27530c.png",
@@ -12,11 +12,11 @@
     "static/media/logo.svg": "/static/media/logo.ae58f993d37e13a2f2d4f30021bf3a73.svg",
     "index.html": "/index.html",
     "main.d24f0d98.css.map": "/static/css/main.d24f0d98.css.map",
-    "main.88506db8.js.map": "/static/js/main.88506db8.js.map",
+    "main.acbb3084.js.map": "/static/js/main.acbb3084.js.map",
     "453.f6c4fa44.chunk.js.map": "/static/js/453.f6c4fa44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d24f0d98.css",
-    "static/js/main.88506db8.js"
+    "static/js/main.acbb3084.js"
   ]
 }
